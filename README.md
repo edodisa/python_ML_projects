@@ -6,4 +6,3 @@ Different learning algorithms and techniques are considered and implemented, con
 | ------- | -------- | 
 |	01	| **[Classification](https://github.com/edodisa/python_ML_projects/tree/main/Classification)** | 
 |	02	| **[Regression](https://github.com/edodisa/python_ML_projects/tree/main/Regression)** | 
-|	03	| **[Neural Networks]()** | 
